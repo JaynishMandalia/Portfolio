@@ -1,12 +1,12 @@
 {
   "main.css": "/Portfolio/static/css/main.38838fa5.chunk.css",
-  "main.js": "/Portfolio/static/js/main.58d83b0b.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.58d83b0b.chunk.js.map",
+  "main.js": "/Portfolio/static/js/main.88cbf850.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.88cbf850.chunk.js.map",
   "static/js/1.4a5cc622.chunk.js": "/Portfolio/static/js/1.4a5cc622.chunk.js",
   "static/js/1.4a5cc622.chunk.js.map": "/Portfolio/static/js/1.4a5cc622.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
   "runtime~main.js.map": "/Portfolio/static/js/runtime~main.3b961160.js.map",
-  "static/media/Jaynish Mandalia.pdf": "/Portfolio/static/media/Jaynish Mandalia.068aa4a1.pdf",
+  "static/media/Jaynish Mandalia.pdf": "/Portfolio/static/media/Jaynish Mandalia.016f73f1.pdf",
   "static/media/Me.png": "/Portfolio/static/media/Me.6c77b07a.png",
   "static/media/Image.jpg": "/Portfolio/static/media/Image.b6948a54.jpg",
   "static/media/NFT.png": "/Portfolio/static/media/NFT.eb6bf354.png",
@@ -16,6 +16,6 @@
   "static/media/GoogleKeep.jpg": "/Portfolio/static/media/GoogleKeep.4fe9bf2a.jpg",
   "static/css/main.38838fa5.chunk.css.map": "/Portfolio/static/css/main.38838fa5.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.43831ed915b1efda15aceeddc02c75bb.js": "/Portfolio/precache-manifest.43831ed915b1efda15aceeddc02c75bb.js",
+  "precache-manifest.a294c44ea9590c6c8a0209e68e70b16f.js": "/Portfolio/precache-manifest.a294c44ea9590c6c8a0209e68e70b16f.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }

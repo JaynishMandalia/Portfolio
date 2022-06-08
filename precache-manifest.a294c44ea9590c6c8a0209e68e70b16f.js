@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "58d83b0b26c119bf54a7",
+    "revision": "88cbf8504aece19299c0",
     "url": "/Portfolio/static/css/main.38838fa5.chunk.css"
   },
   {
-    "revision": "58d83b0b26c119bf54a7",
-    "url": "/Portfolio/static/js/main.58d83b0b.chunk.js"
+    "revision": "88cbf8504aece19299c0",
+    "url": "/Portfolio/static/js/main.88cbf850.chunk.js"
   },
   {
     "revision": "4a5cc6229667cbe21dc0",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/js/runtime~main.3b961160.js"
   },
   {
-    "revision": "068aa4a1654ebbeb83fc678f66cdb23a",
-    "url": "/Portfolio/static/media/Jaynish Mandalia.068aa4a1.pdf"
+    "revision": "016f73f133e231e9905a11b7fe79c630",
+    "url": "/Portfolio/static/media/Jaynish Mandalia.016f73f1.pdf"
   },
   {
     "revision": "6c77b07ae224cb7ecd6b7be1976ec3e0",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/GoogleKeep.4fe9bf2a.jpg"
   },
   {
-    "revision": "c72c08c020f3db9a9dfc14f4e2f630b5",
+    "revision": "609ac48b2eb5f716324d505c734e947a",
     "url": "/Portfolio/index.html"
   }
 ];
